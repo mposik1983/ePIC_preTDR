@@ -1,5 +1,12 @@
 Scripts used to produce ePIC pre-TDR NHit vs. eta plots.
 
+* Simulation Details:
+    * particle gun: pi-
+    * theta range: 3deg - 177deg
+    * phi range: 0deg - 360deg
+    * Fixed momentum values: 0.5, 1.0, 2.0, 5.0, 10.0 GeV
+    * Nevents: 10,000
+
 1) This analysis runs in eic-shell and assumes that the epic software repository (https://github.com/eic/epic.git) is installed for sim hits and eicrecon installed for rec hits.
 2) Two detector configuration files are used with npsim:
     * craterlake_tracking_only.yml for analysis with the Silicon + ToF + MPGD 
