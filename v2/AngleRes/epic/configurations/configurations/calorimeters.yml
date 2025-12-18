@@ -1,0 +1,14 @@
+features:
+  beampipe:
+  solenoid:
+  ecal:
+    forward_homogeneous:
+    forward_insert_homogeneous:
+    bic_default:
+    backward_PbWO4:
+  hcal:
+    lfhcal_with_space_for_insert:
+    forward_insert:
+    barrel_gdml:
+    backward:
+    backward_endcap_flux:

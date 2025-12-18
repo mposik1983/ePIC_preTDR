@@ -1,0 +1,24 @@
+features:
+  beampipe:
+  fields:
+    marco:
+  tracking:
+    definitions_craterlake:
+    vertex_barrel:
+    silicon_barrel:
+    mpgd_barrel:
+    support_service_craterlake:
+    mpgd_outerbarrel:
+    mpgd_forward_endcap:
+    mpgd_backward_endcap:
+    silicon_disks:
+    tof_barrel:
+    tof_endcap:
+  ecal:
+    forward_homogeneous:
+    bic_default:
+    backward_PbWO4:
+  pid:
+    dirc:
+    pfrich:
+    drich:
