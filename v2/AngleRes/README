@@ -3,3 +3,5 @@
 3. EICrecon: code modified to perform the track reconstruction and propagation to DIRC
 4. GetAngleRes.C: Calculates the angular resolutions 
 5. MPGD_AngularResolution_Impact.ipynb: plots angular resolution results
+6. MPGD-BOT-ThetaResolution.pdf: Compares angular resolution vs. eta with and without MPGD-BOT at momenta of 1 and 6 GeV
+7. DIRC_ePIC_Performance.pdf: Uses epic p/eta dependent angular resolution map to compute pi/K seperation power. ePIC provided resolutions are the blue markers. seperation power carried out in hpDIRC standalone Geant4 and provided by hpDIRC group.
