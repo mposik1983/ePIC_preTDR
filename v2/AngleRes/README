@@ -1,5 +1,5 @@
 1. Study to see the impact of the MPGD-BOT on angular resolutuions.
 2. epic: contains codes that were modified in the epic repo to incudle a hit sensitive DIRC reference layer
 3. EICrecon: code modified to perform the track reconstruction and propagation to DIRC
-4. 
-6. MPGD_AngularResolution_Impact.ipynb: plots angular resolution results
+4. GetAngleRes.C: Calculates the angular resolutions 
+5. MPGD_AngularResolution_Impact.ipynb: plots angular resolution results
